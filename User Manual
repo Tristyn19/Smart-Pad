@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Manual</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .toc {
+            background: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .toc a {
+            display: block;
+            margin: 5px 0;
+            text-decoration: none;
+            color: #007bff;
+        }
+        .toc a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <img src="logo.png" alt="Company Logo" width="150">
+    <h1>User Manual</h1>
+    <div class="toc">
+        <h2>Table of Contents</h2>
+        <a href="#introduction">Introduction</a>
+        <a href="#setup">Setup Instructions</a>
+        <a href="#usage">How to Use</a>
+        <a href="#faq">FAQs</a>
+        <a href="#support">Support</a>
+    </div>
+
+    <h2 id="introduction">1.0 Introduction</h2>
+    <p>This is a test. Welcome to the user manual. This guide will help you understand the product and its features.</p>
+
+    <h2 id="setup">2.0 Setup Instructions</h2>
+    <p>This is where the setup instructions will be</p>
+
+    <h2 id="usage">3.0 How to Use</h2>
+    <p>Here’s how you can use the product effectively...</p>
+
+    <h2 id="faq">4.0 FAQs</h2>
+    <p>Common questions and their answers...</p>
+
+    <h2 id="support">5.0 Support</h2>
+    <p>Need help? Contact our support team...</p>
+</body>
+</html>
