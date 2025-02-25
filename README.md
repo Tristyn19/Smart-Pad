@@ -1,3 +1,3 @@
-Smart Pad
+Smart Pad Information Guide
 
 
